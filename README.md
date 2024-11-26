@@ -72,6 +72,44 @@ Log in as an administrator to edit or delete car listings.
 Manage user data by editing or deleting profiles.
 
 
+## 📷 Screenshots
+
+**Register**
+
+![image](https://github.com/user-attachments/assets/0132d086-e680-49ca-a563-ff934be11f14)
+
+ 
+**Login**
+
+![image](https://github.com/user-attachments/assets/43e6240f-6192-4f8d-873a-6f4b5ceea4f1)
+
+ 
+**View All Cars**
+
+![image](https://github.com/user-attachments/assets/8034c613-d43c-477e-9c31-d2b026daf6d7)
+
+ 
+**Cars Detail**
+
+![image](https://github.com/user-attachments/assets/aefd1b35-816a-4c8b-904d-8fdc3fcc3d9f)
+
+ 
+**Profile**
+
+![image](https://github.com/user-attachments/assets/6d50a786-af72-427e-8053-4cb82618f37a)
+
+ 
+**View All Users (Admin Only)**
+
+![image](https://github.com/user-attachments/assets/cfc1425e-58d8-475b-8f8a-1dedaf955eba)
+
+ 
+**Update User**
+
+ ![image](https://github.com/user-attachments/assets/e83e5699-0016-4b1c-9ccb-ff1848b21937)
+
+
+
 ## 🤝 Contribution Guidelines
 We welcome contributions to enhance the functionality of Bid-My-Ride! Please follow these steps:
 
